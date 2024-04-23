@@ -7,3 +7,9 @@ A rock, paper, scissors classifier that uses a custom dataset, trained using tra
 2) Transfer Learning with NASNet Mobile: Transfer learning is employed using the NASNet Mobile architecture, that is trained on the ImageNet Dataset.
 3) Real-time Classification: Utilizes computer vision to classify hand gestures in real-time.
 4) Random Move Generation: The computer generates a random move as its opponent, adding an element of unpredictability to the game.
+
+# Acknowledgments
+1) This project was inspired by the classic game of Rock Paper Scissor.
+2) Special thanks to the creators of NASNet Mobile for providing the pre-trained model.
+
+
